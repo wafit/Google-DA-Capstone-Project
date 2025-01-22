@@ -1,19 +1,19 @@
 ## CYCLISTIC BIKE-SHARE ANALYSIS
 
-# SCENARIO:
+SCENARIO:
 
 'Cyclistic' is a Chicago-based bike-share company that offers docked and electric bikes for public use. 
 The company serves two primary customer segments: casual riders who pay per ride and membership riders who purchase annual subscriptions. 
 While Cyclistic has seen steady growth in usage, the marketing team believes there is an opportunity to increase revenue by converting more casual riders into annual members.
 
-# PROBLEM STATEMENT:
+PROBLEM STATEMENT:
 
 To support the above strategy, the marketing team has tasked the data analytics team with analyzing rider data to uncover key behavioral patterns and trends. 
 Insights from this analysis will guide marketing initiatives aimed at increasing the membership conversion rate.
 "Cyclistic wants to increase its annual memberships by converting casual riders into members."
 
 
-# INSIGHTS AND RECOMMENDATIONS
+INSIGHTS AND RECOMMENDATIONS
 
 ** INSIGHTS:
 
