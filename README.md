@@ -1,30 +1,30 @@
-CYCLISTIC BIKE-SHARE ANALYSIS
+## CYCLISTIC BIKE-SHARE ANALYSIS
 
-SCENARIO:
+# SCENARIO:
 
 'Cyclistic' is a Chicago-based bike-share company that offers docked and electric bikes for public use. 
 The company serves two primary customer segments: casual riders who pay per ride and membership riders who purchase annual subscriptions. 
 While Cyclistic has seen steady growth in usage, the marketing team believes there is an opportunity to increase revenue by converting more casual riders into annual members.
 
-PROBLEM STATEMENT:
+# PROBLEM STATEMENT:
 
 To support the above strategy, the marketing team has tasked the data analytics team with analyzing rider data to uncover key behavioral patterns and trends. 
 Insights from this analysis will guide marketing initiatives aimed at increasing the membership conversion rate.
 "Cyclistic wants to increase its annual memberships by converting casual riders into members."
 
 
-INSIGHTS AND RECOMMENDATIONS
+# INSIGHTS AND RECOMMENDATIONS
 
 ** INSIGHTS:
 
 1. Rides By Month
 
 Casual Riders:
-## Peak rides occur during warmer months (e.g.,June, July, August, September) preferably Summer, indicating a preference for leisure activities during favorable weather.
-## Significant drop in rides during colder months i.e., November to February.
+Peak rides occur during warmer months (e.g.,June, July, August, September) preferably Summer, indicating a preference for leisure activities during favorable weather.
+Significant drop in rides during colder months i.e., November to February.
 Membership Riders:
-## More consistent ride patterns throughout the year, with slight increases during warmer months.(Summer in Chicago)
-## Indicates usage for commuting or regular activities, irrespective of seasons.
+More consistent ride patterns throughout the year, with slight increases during warmer months.(Summer in Chicago)
+Indicates usage for commuting or regular activities, irrespective of seasons.
 
 2. Rides by Day of the Week
 
